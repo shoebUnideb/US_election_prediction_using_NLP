@@ -12,7 +12,7 @@ This project employs **Natural Language Processing (NLP)** to analyze public sen
 - **NLTK & TextBlob**: Essential libraries for text preprocessing and sentiment analysis.
 - **WordCloud**: Generates visual representations of frequently used words in election-related discussions.
 - **Regular Expressions (re)**: Cleans raw text data by removing unnecessary symbols and noise.
-- **Machine Learning (if applicable)**: If included, various models such as Logistic Regression or Naive Bayes are used for prediction.
+- **Machine Learning **: Various models such as Logistic Regression or Naive Bayes are used for prediction.
 
 ## Features
 
